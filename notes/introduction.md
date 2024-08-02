@@ -12,3 +12,10 @@
 > 因为MRI图像中的单个像素与分娩过程中可能出现的并发症之间几乎没有相关性。
 
 **总的来说,机器学习算法的性能很大程度上取决于数据的表示方式,如果数据表示不合适,算法即使再复杂也无法做出有效的预测。因此,如何选择和定义特征是机器学习中很关键的一步。**
+
+## representation learning
+
+**Use machine learning to discover not only the mapping from representation to output but also the representation itself.
+This approach is known as representation learning.**
+
+一个经典的 representation learning 的例子是 **autoencoder**
