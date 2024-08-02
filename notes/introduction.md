@@ -15,7 +15,25 @@
 
 ## representation learning
 
+为了解决抽取数据 feature的问题，引入了 representation learning这个概念
+
 **Use machine learning to discover not only the mapping from representation to output but also the representation itself.
 This approach is known as representation learning.**
 
-一个经典的 representation learning 的例子是 **autoencoder**
+> 一个经典的 representation learning 的例子是 **autoencoder**
+
+深度学习使计算机能够从更简单的概念中构建复杂的概念。
+
+![figure 1.2](./asset/fg1_2.png)
+
+> 图 1.2 显示了深度学习系统如何通过结合更简单的概念（例如角和轮廓）来表示人的图像概念。
+
+## relationship of subjects
+
+![figure 1.4](./asset/fig1_4.png)
+
+> Figure 1.4: A Venn diagram showing how deep learning is a kind of representation learning,which is in turn a kind of machine learning, which is used for many but not all approachesto AI. Each section of the Venn diagram includes an example of an AI technology.
+
+![figure 1.5](./asset/fig1_5.png)
+
+> Figure 1.5: Flowcharts showing how the diﬀerent parts of an AI system relate to eachother within diﬀerent AI disciplines. Shaded boxes indicate components that are able tolearn from data.
