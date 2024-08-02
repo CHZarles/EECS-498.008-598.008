@@ -30,10 +30,10 @@ This approach is known as representation learning.**
 
 ## relationship of subjects
 
-![figure 1.4](./asset/fig1_4.png)
+![figure 1.4](./asset/fg1_4.jpg)
 
 > Figure 1.4: A Venn diagram showing how deep learning is a kind of representation learning,which is in turn a kind of machine learning, which is used for many but not all approachesto AI. Each section of the Venn diagram includes an example of an AI technology.
 
-![figure 1.5](./asset/fig1_5.png)
+![figure 1.5](./asset/fg1_5.jpg)
 
 > Figure 1.5: Flowcharts showing how the diﬀerent parts of an AI system relate to eachother within diﬀerent AI disciplines. Shaded boxes indicate components that are able tolearn from data.
